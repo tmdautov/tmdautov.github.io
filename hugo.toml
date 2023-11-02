@@ -1,7 +1,7 @@
 theme = "PaperMod"
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Frontend Engineer Blog'
 
 paginate = 5
 enableRobotsTXT = true
@@ -20,7 +20,7 @@ env = "production"
 title = "ExampleSite"
 description = "ExampleSite description"
 keywords = ["Blog", "Portfolio", "PaperMod"]
-author = "Me"
+author = "Timur Dautov"
 images = ["<link or path of image for opengraph, twitter-cards>"]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -49,7 +49,7 @@ apple_touch_icon = "<link / abs url>"
 safari_pinned_tab = "<link / abs url>"
 
 [params.label]
-text = "Home"
+text = "Frontend Engineer Blog"
 icon = "/apple-touch-icon.png"
 iconHeight = 35
 
