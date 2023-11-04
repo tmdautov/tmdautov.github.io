@@ -8,7 +8,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-googleAnalytics = "UA-123-45"
+googleAnalytics = "G-Z1B6MDN423"
 pygmentsUseClasses = true
 
 [minify]
